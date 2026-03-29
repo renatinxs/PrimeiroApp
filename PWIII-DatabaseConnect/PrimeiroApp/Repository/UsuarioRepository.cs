@@ -23,7 +23,7 @@ namespace PrimeiroApp.Repository
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
-                cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.Datetime).Value = usuario.DataNasc;
                 cmd.Parameters.Add("@IdUsu", MySqlDbType.VarChar).Value = usuario.IdUsu;
 
                 cmd.ExecuteNonQuery();
@@ -75,7 +75,7 @@ namespace PrimeiroApp.Repository
                 DataTable dt = new DataTable();
                 da.Fill(dt);
 
-                conexao.Clone();
+                conexao.Close();
 
                 foreach(DataRow dr in dt.Rows)
                 {

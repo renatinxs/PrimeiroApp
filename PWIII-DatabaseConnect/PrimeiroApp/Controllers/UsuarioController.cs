@@ -8,7 +8,7 @@ namespace PrimeiroApp.Controllers
     {
         private IUsuarioRepository _usuarioRepository;
 
-        public UsuarioController (IUsuarioRepository usuarioRepository)
+        public UsuarioController(IUsuarioRepository usuarioRepository)
         {
             _usuarioRepository = usuarioRepository;
         }
@@ -30,15 +30,18 @@ namespace PrimeiroApp.Controllers
             return View(_usuarioRepository.ObterUsuario(id));
         }
 
+        [HttpGet]
         public IActionResult AtualizarUsuario(int id)
         {
             return View(_usuarioRepository.ObterUsuario(id));
         }
 
-        public IActionResult CadastrarUsuario() 
+        [HttpGet]
+        public IActionResult CadastrarUsuario()
         {
             return View();
         }
+
 
         [HttpPost]
         public IActionResult DetalhesUsuario(Usuario usuario)
@@ -46,19 +49,25 @@ namespace PrimeiroApp.Controllers
             _usuarioRepository.Atualizar(usuario);
             return RedirectToAction(nameof(Index));
         }
+
+
+        [HttpPost]
         public IActionResult AtualizarUsuario(Usuario usuario)
         {
             _usuarioRepository.Atualizar(usuario);
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult CadastrarUsuario(Usuario usuario) 
+        [HttpPost]
+        public IActionResult CadastrarUsuario(Usuario usuario)
         {
-            if (ModelState.IsValid) 
+            if (ModelState.IsValid)
             {
                 _usuarioRepository.Cadastrar(usuario);
+                return RedirectToAction(nameof(Index));
             }
-            return View();
+
+            return View(usuario);
         }
     }
 }
