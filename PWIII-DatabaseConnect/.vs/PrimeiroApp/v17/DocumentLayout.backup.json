@@ -3,64 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,28 +91,8 @@
       "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\renato\\desktop\\primeiroapp\\pwiii-databaseconnect\\primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EEA1E36-860C-49DD-A864-A5E2F3DFE2EF}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,49 +102,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwBoAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T21:58:54.161Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EnderecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\EnderecoRepository.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\EnderecoRepository.cs",
               "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\EnderecoRepository.cs",
               "RelativeToolTip": "PrimeiroApp\\Repository\\EnderecoRepository.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T21:45:01.138Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AtualizarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Endereco.cs",
+              "RelativeToolTip": "PrimeiroApp\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T21:19:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Program.cs",
+              "RelativeToolTip": "PrimeiroApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:54:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Endereco\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Index.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Endereco\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T23:33:20.628Z"
+              "WhenOpened": "2026-03-29T00:04:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T00:17:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:12:20.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
+              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:59:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
+              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T21:39:50.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
@@ -156,116 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CadastrarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T23:33:18.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DetalhesUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:06:03.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEnderecoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
-              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IEnderecoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T21:39:50.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
-              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\EnderecoController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T22:59:21.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:06:10.675Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Endereco\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Index.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Endereco\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:04:24.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Endereco\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:17:21.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T23:25:31.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:06:15.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\HomeController.cs",
@@ -277,43 +241,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PrimeiroApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PrimeiroApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-28T23:23:27.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T23:25:31.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T00:06:03.98Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T22:12:20.248Z"
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T23:33:20.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Usuario.cs",
-              "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimeiroApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\appsettings.json",
+              "RelativeToolTip": "PrimeiroApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T22:21:42.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T23:33:52.703Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T00:06:15.299Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T00:01:41.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\Index.cshtml",
@@ -325,19 +325,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Program.cs",
-              "RelativeToolTip": "PrimeiroApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T22:54:32.58Z"
+              "DocumentIndex": 17,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T23:33:18.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T00:06:10.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T23:33:52.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T00:01:41.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Models\\ErrorViewModel.cs",
@@ -346,42 +382,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T23:33:50.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "PrimeiroApp\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "PrimeiroApp\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-28T23:23:27.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\appsettings.json",
-              "RelativeDocumentMoniker": "PrimeiroApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\appsettings.json",
-              "RelativeToolTip": "PrimeiroApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-28T22:21:42.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Endereco.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\PrimeiroApp\\PWIII-DatabaseConnect\\PrimeiroApp\\Models\\Endereco.cs",
-              "RelativeToolTip": "PrimeiroApp\\Models\\Endereco.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T21:19:14.301Z"
             }
           ]
         }
